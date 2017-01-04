@@ -1,4 +1,5 @@
-# stuff-to-learn
-ALL THE THINGS I WANT TO LEARN
+# Things To Learn
 
-[Things to Learn](ThingsToLearn.md)
+[ALL THE THINGS I WANT TO LEARN](ThingsToLearn.md)
+
+# Things I've Learned
